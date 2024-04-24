@@ -1,15 +1,6 @@
 # For use in capstone project
-Gun Ownership Dataset:
-https://www.rand.org/pubs/tools/TLA243-2-v2.html
-
-
-Population Dataset: 
-https://www2.census.gov/programs-surveys/popest/datasets/2020-2021/state/totals/NST-EST2021-alldata.csv
-
-
 Purpose:
 The purpose of our project is to explore school shootings in the US by using data anlysis skills
-
 
 
 Sandbox_for_play:
@@ -26,3 +17,18 @@ This notebook uses the parquet file made in "Generate_file_of_coordinates" to ma
 
 Normalization:
 This notebook combined all of our datastes to do further analysis. First we combined our population dataset with our school shootings dataset to get incidents per 100,000 people by state. We then did this for all the injuries and fatalities. Once we had all of these plots, we then combined population datset, school shootings dataset and our gun laws dataset to get the normalization for all the incidents and fatalities in each state distributed by the different types of gun laws. 
+
+
+Gun Ownership Dataset:
+https://www.rand.org/pubs/tools/TLA243-2-v2.html
+
+
+Population Dataset: 
+https://www2.census.gov/programs-surveys/popest/datasets/2020-2021/state/totals/NST-EST2021-alldata.csv
+
+
+School Shootings Dataset:
+https://www.gunviolencearchive.org/school-shootings
+
+
+

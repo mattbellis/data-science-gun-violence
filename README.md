@@ -1,6 +1,6 @@
 # For use in capstone project
 Purpose:
-The purpose of our project is to explore school shootings in the US by using data anlysis skills
+The purpose of our project is to explore school shootings in the US and spread awareness about what factors might be contributing gun violece by displaying gun control in each state.
 
 
 Sandbox_for_play:

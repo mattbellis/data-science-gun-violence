@@ -4,6 +4,8 @@
 
 The purpose of our project is to explore school shootings in the US and spread awareness about what factors might be contributing gun violece by displaying gun control in each state.
 
+[Google Slides](https://docs.google.com/presentation/d/1Fs6EmTkQ76oPxwkTp5y7ONc0uyhaCgDG3mYhUP3d-aE/edit?usp=sharing) for final presentation.
+
 ## Jupyter notebooks used in analysis
 
 `sandbox_for_playing around.ipynb`:
